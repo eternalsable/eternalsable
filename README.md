@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/18fe0b97-e2c3-4783-87a9-2c2c5b6945f3)
+![image](https://github.com/user-attachments/assets/cb8273de-fac6-489e-ae82-e816c50eeb51)
+
 <!--
 **eternalsable/eternalsable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
