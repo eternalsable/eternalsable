@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/cb8273de-fac6-489e-ae82-e816c50eeb51)
 
 ![image](https://github.com/user-attachments/assets/bc3d0d6d-39f0-456c-87b9-7ab779ac5c34)
 
