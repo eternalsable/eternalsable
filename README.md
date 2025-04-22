@@ -1,5 +1,4 @@
-
-![image](https://github.com/user-attachments/assets/bc3d0d6d-39f0-456c-87b9-7ab779ac5c34)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0s4ljv19hhqqth1soj3sfs5vi&cover_image=true&theme=novatorem&show_offline=false&background_color=25181d&interchange=false&bar_color=575058&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **eternalsable/eternalsable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
