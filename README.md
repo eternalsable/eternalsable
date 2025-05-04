@@ -2,10 +2,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0s4ljv19hhqqth1soj3sfs5vi&cover_image=true&theme=novatorem&show_offline=false&background_color=25181d&interchange=false&bar_color=575058&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-
-<h4 this dont pay too bad.>
-<h6 especially if i can steal extra studs from our targets.>
-
 <!--
 **eternalsable/eternalsable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
